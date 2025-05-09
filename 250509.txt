@@ -1,0 +1,56 @@
+*Graph QL : DB / SQL
+
+*FireBase : Hosting Service
+
+*
+npm i @types/styled-components -D
+npm i styled-components
+npm i styled-reset
+npm i @types/react-router-dom -D
+npm i react-router-dom
+
+*Firebase > Authentication 인증 기능!!!
+
+
+1) 위 기능을 사용하고자 하는 개발자의 정체 (*API key)
+
+2) Input 태그를 통해서 수집한 사용자의 정보 데이터 > Firebase > 해당 사용자가 존재하는 사용자인지를 판단
+
+SDK => Software development kit
+
+
+1. Props => 데이터 타입 => interface
+2. API => 데이터 타입 -> 객체
+3. Theme => 테마 타입
+4. 유니온타입 => 타입가드(if/as)
+5. 이벤트
+6. 함수 매개변수
+7. 컴포넌트 (제네릭)
+
+> Firebase를 활용해서 회원가입 > 계정생성 > 로그인됨!!!
+
+firebase : 회원가입 password => 123456 여섯 자리 이상
+
+클라이언트 ID -> Ov23lieDkGA8XgZYcr0x
+
+클라이언트 PW -> b1528928ff387d68a4c19da8e7dc269a32fb59ee
+
+GitHub.com/logos
+
+
+** Github에 올리는 방법 **
+1. git init -> 초기화
+
+2. git remote add origin [https://github.com/YJ-localhost/Review-Repository.git]
+-> 원격 저장소로 연결
+
+3. git add . -> 모든 변경사항을 추가
+
+4. git commit -m "[날짜명]" ->해당 변경사항을 커밋(로컬 기록 저장)
+
+5. git branch -M(변경) cart
+
+6. git push origin cart
+
+5. 
+
